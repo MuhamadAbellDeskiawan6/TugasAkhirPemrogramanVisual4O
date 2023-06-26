@@ -10,7 +10,6 @@ type
   TForm9 = class(TForm)
     MainMenu1: TMainMenu;
     FILE1: TMenuItem;
-    LAPORAN1: TMenuItem;
     KELUAR1: TMenuItem;
     FORMSISWA1: TMenuItem;
     FORMKELAS1: TMenuItem;

@@ -52,9 +52,6 @@ object Form9: TForm9
         OnClick = FORMUSER1Click
       end
     end
-    object LAPORAN1: TMenuItem
-      Caption = 'LAPORAN'
-    end
     object KELUAR1: TMenuItem
       Caption = 'KELUAR'
       OnClick = KELUAR1Click
